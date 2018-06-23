@@ -16,7 +16,7 @@ This is the sixth project for the Udacity Full Stack Nanodegree. This project in
 
 ## Getting Started
 
-This project uses [Amazon Lightsail](https://amazonlightsail.com/) to create a Linux server instance.
+Ts project uses [Amazon Lightsail](https://amazonlightsail.com/) to create a Linux server instance.
 
 1. Get your server.
 
